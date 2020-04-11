@@ -1,0 +1,2 @@
+# SoftwareTestTechniquePractice
+ ソフトウェアテスト技法練習帳の勉強
